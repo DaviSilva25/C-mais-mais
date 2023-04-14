@@ -1,9 +1,10 @@
 #include <iostream>
 #include <cmath>
 
+using namespace std;
+
 int main() {
 
-    using namespace std;
 
     double x = 3;
     double y = 4;
